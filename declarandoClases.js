@@ -51,7 +51,7 @@ console.log(moto1.obtenerDetalles());
 
 /// Ejercicio 2: Sistema de empleados ///
 
-// Clase base
+
 class Empleado {
   constructor(nombre, edad, salarioBase) {
     this.nombre = nombre;
